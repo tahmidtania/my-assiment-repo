@@ -9,19 +9,34 @@ h1{
     color: orange;
 }
 .flexiable-container{
-   
-}
-section{
-    padding: 2%;
     display: flex;
-}
+    padding: 2%;
+} 
 .half-width{
     width: 50%;
+    padding-left: 10px;
 }
 .half-width img{
     width: 70%;
 }
 .link-button{
     text-decoration: none;
-    background-color: linear-gradient(orange);
+    background-image: linear-gradient(orange, red);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: white;
+}
+.border{
+        margin-right: 10%;
+        border-radius: 20px;
+    }
+.goals{
+    border-radius: 20px;
+}
+.center{
+    text-align: center
+}
+.background-color{
+    color: rgb(49, 92, 92);
 }
