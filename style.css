@@ -10,7 +10,7 @@ h1{
 }
 .flexiable-container{
     display: flex;
-    padding: 2%;
+    padding: 10%;
 } 
 .half-width{
     width: 50%;
@@ -27,6 +27,11 @@ h1{
     border-radius: 5%;
     color: white;
 }
+.images{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    width: ;
+}
 .border{
         margin-right: 10%;
         border-radius: 20px;
@@ -36,6 +41,10 @@ h1{
 }
 .center{
     text-align: center
+}
+.mental-health{
+    background-image: url(images/shapes/shape-2.png);
+    background-repeat: no-repeat;
 }
 .background-color{
     color: rgb(49, 92, 92);
